@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Starter",
+  "description": "A foundational React application built with Tailwind CSS and Gemini AI integration.",
+  "requestFramePermissions": ["geolocation"]
+}

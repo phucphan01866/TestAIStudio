@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Fix for default marker icons in Leaflet with Vite */
+.leaflet-default-icon-path {
+  background-image: url(leaflet/dist/images/marker-icon.png);
+}
